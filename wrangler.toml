@@ -3,5 +3,5 @@ main = "src/index.js"
 compatibility_date = "2023-03-24"
 
 [vars]
-GITHUB_CLIENT_ID = "HIER_DEINE_CLIENT_ID_UNVERÄNDERT_LASSEN"
+GITHUB_CLIENT_ID = "Ov23cteO8c67IUZqmezL"
 ALLOWED_DOMAINS = "kjg-aachen.de, www.kjg-aachen.de, kjgmail.de, www.kjgmail.de"
